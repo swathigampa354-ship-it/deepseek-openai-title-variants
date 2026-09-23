@@ -1,0 +1,56 @@
+# Batch 2 — 50 Title Variants
+
+Same video, same style/position/size as batch 1; only the headline differs. 1080×1920, 30 fps.
+
+| File | Title |
+|---|---|
+| vid_01.mp4 | DeepSeek Has OpenAI Under Pressure |
+| vid_02.mp4 | OpenAI Just Met Its New Rival |
+| vid_03.mp4 | Why DeepSeek Is a Big Deal |
+| vid_04.mp4 | The Rival Sam Altman Can't Ignore |
+| vid_05.mp4 | DeepSeek Is Reshaping the AI Race |
+| vid_06.mp4 | OpenAI's Newest Competitor Is Rising |
+| vid_07.mp4 | DeepSeek Just Entered OpenAI Territory |
+| vid_08.mp4 | The AI Rival Nobody Saw Coming |
+| vid_09.mp4 | Why Sam Altman Is Taking Notes |
+| vid_10.mp4 | DeepSeek vs ChatGPT Gets Serious |
+| vid_11.mp4 | OpenAI's AI Lead Is Being Tested |
+| vid_12.mp4 | DeepSeek Is Closing the AI Gap |
+| vid_13.mp4 | The Race for AI Just Changed |
+| vid_14.mp4 | Why DeepSeek Has Everyone Talking |
+| vid_15.mp4 | OpenAI Faces a New AI Challenger |
+| vid_16.mp4 | DeepSeek Could Shake Up ChatGPT |
+| vid_17.mp4 | The AI Competition Just Exploded |
+| vid_18.mp4 | Sam Altman Has a New Challenger |
+| vid_19.mp4 | DeepSeek Is Making AI Cheaper |
+| vid_20.mp4 | OpenAI's Biggest Rival Is Getting Stronger |
+| vid_21.mp4 | DeepSeek Just Put AI Giants on Notice |
+| vid_22.mp4 | The New Power Player in AI |
+| vid_23.mp4 | Why OpenAI Is Watching DeepSeek |
+| vid_24.mp4 | DeepSeek Is Changing AI Economics |
+| vid_25.mp4 | The AI Race Is No Longer One-Sided |
+| vid_26.mp4 | DeepSeek Just Challenged the AI Giants |
+| vid_27.mp4 | OpenAI's Advantage Is Under Pressure |
+| vid_28.mp4 | DeepSeek Could Reshape the AI Market |
+| vid_29.mp4 | The New Battle for AI Supremacy |
+| vid_30.mp4 | Why DeepSeek Matters to ChatGPT |
+| vid_31.mp4 | OpenAI Has a New Problem to Solve |
+| vid_32.mp4 | DeepSeek Is Making Big AI Nervous |
+| vid_33.mp4 | The AI Race Just Got Cheaper |
+| vid_34.mp4 | DeepSeek's Rise Explained in Seconds |
+| vid_35.mp4 | Can ChatGPT Handle DeepSeek? |
+| vid_36.mp4 | DeepSeek Is Coming Up Fast |
+| vid_37.mp4 | The AI Industry Has a New Challenger |
+| vid_38.mp4 | OpenAI's Rival Just Got Serious |
+| vid_39.mp4 | DeepSeek Could Disrupt the AI Giants |
+| vid_40.mp4 | Sam Altman's Rival Is Getting Stronger |
+| vid_41.mp4 | DeepSeek Is Testing OpenAI's Strategy |
+| vid_42.mp4 | ChatGPT Finally Has Serious Competition |
+| vid_43.mp4 | The DeepSeek Effect Is Real |
+| vid_44.mp4 | OpenAI's AI Strategy Faces a Test |
+| vid_45.mp4 | DeepSeek Is Changing the Competition |
+| vid_46.mp4 | The Next Chapter of the AI War |
+| vid_47.mp4 | Why DeepSeek Could Matter for Everyone |
+| vid_48.mp4 | OpenAI vs the Rising DeepSeek Threat |
+| vid_49.mp4 | DeepSeek Just Made AI More Competitive |
+| vid_50.mp4 | The AI Race Has a New Challenger |
